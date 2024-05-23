@@ -1,0 +1,8 @@
+This model will be showing the output of classification by using the KPCA model, it will be showing the which contain:
+1. Confusion matrix
+2. Accuracy for 20 iteration with different random state
+3. Accuracy for 1 iteration with random state = 0
+4. Logistic regression graph for train data
+5. Logisric regression graph for test data
+6. csv file for train data
+7. csv file for test data
