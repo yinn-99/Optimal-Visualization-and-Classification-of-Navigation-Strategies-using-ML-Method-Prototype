@@ -11,6 +11,3 @@ For the LDA, KPCA, PCA model, the coordinate of training data and testing data i
 The test-size of 0.2 will be used in order to get a more accuracte result while making prediction for the test data.
 The LDA models shows it had the best result for classification this dataset. therefore, the coordinate for the train and test data had been save in csv file for investigation.
 The SHAP model will be using to generate a violin summary plot which summarizing up the effect of the most important NSQ items on sketchmap classification.
-
-In the phase II for this research, the recorded coordinate for the LDA model will be used to compare with second dataset, to find out the relationship in order to find an ideal
-equation for the Imaginal Pointing Direction Task Response Time (IPDT-RT), Imaginal Pointing Direction Accuracy (IPDT-ACC), Route Pointing Direction Task Response Time (RPDT-RT), and Route Pointing Direction Task Accuracy (RPDT-ACC). The prupose for phase II research is to find out the most ideal equation to make prediction for future study for each model by comparing the p-value and r-squarevalue for each linear regression model. 
